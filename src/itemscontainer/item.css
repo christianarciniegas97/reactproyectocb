@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100&display=swap');
+.stylesit{
+    border: solid 2px gray;
+    border-radius: 10px;
+    width: 250px;
+    height: 350px;
+    margin: 5px;
+    margin-left: 20px;
+}
+.spaces{
+    height: 180px;
+}
+
+.detailtarje{
+    border-top: solid 2px gray;
+    border-bottom: solid 2px gray;
+}
+
+.wimg{
+    width: 250px;
+    height: 180px;
+    border-bottom: 2px solid gray;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.titleProducts{
+    background-color:#338b85;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 22px;
+    font-weight: 100;
+    border-bottom: solid 2px gray;
+    margin-top: 2px;
+    margin-bottom: 5px;
+
+}
+.divdetil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.detail{
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+}
+.stylesit:hover{
+    border: black solid 2px;
+ }

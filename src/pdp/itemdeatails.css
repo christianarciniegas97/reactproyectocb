@@ -1,0 +1,21 @@
+.stylesg{
+    display: flex;
+    flex-direction: row;
+}
+
+.ImgConProd{
+    margin: 50px;
+    border: solid 2px gray;
+    width: 750px;
+    height: 550px;
+} .Whimg{
+    width: 750px;
+    height: 550px;
+}
+
+.detailcontent{
+    text-align: center;
+    width: 45%;
+    margin: 50px;
+    border: solid 2px gray;
+}
